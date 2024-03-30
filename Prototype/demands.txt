@@ -1,0 +1,44 @@
+﻿
+
+
+Prototype
+
+You will develop a small Web application which will have the following functionalities:
+
+1. There will be a front-end GUI and a database in the back-end.
+
+2. The front-end will have:
+
+➤ A signup screen
+
+> A login screen
+
+➤ A screen to enter product info like... product id, product name, manufacturer's name, model etc.
+
+a screen for entering search criteria
+
+➤ a screen for displaying the results.
+
+3. The back-end will have a database where:
+
+> Login information of a registered user is saved.
+
+> Product info is saved.
+
+> Search results are saved.
+
+4. When a user successfully signup, a welcome mail should be sent to HIS provided email. 5. User will enter the search criteria like... product name or company name etc.
+
+6. Your business logic will search the webpage and displays the results.
+
+It is strongly recommended that you use the same tools which are required for your final project.
+
+This web application will help you in doing your final project.
+
+In your prototype viva, you will be asked questions about your code you have written. So, you should know how your code is implementing your application's business logic.
+
+Supervisor:
+
+Name: Ayyaz Altaf Mirza
+
+Email ID: Ayyaz.altaf@vu.edu.pk Skype ID: live:cid.71f50448c186e933
